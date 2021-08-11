@@ -45,4 +45,4 @@ Challenge #13
 
 
 ERD:
-![Challenge #13](./ERDforCheckpoint.png)
+![Challenge #13](./CheckpointERD.png)
