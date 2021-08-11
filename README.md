@@ -38,3 +38,11 @@ Challenge #12
 
 Challenge #13
 ![Challenge #13](./ScreenShots/13.png)
+
+
+
+
+
+
+ERD:
+![Challenge #13](./ERDforCheckpoint.png)
